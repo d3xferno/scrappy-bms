@@ -1,0 +1,11 @@
+{
+    "city":"",
+    "name":"",
+    "venues":[],
+    "sender":"",
+    "password":"",
+    "reciever":[],
+    "interval":60,
+    "multilingual":"",
+    "language":""
+}
